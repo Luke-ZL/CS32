@@ -1,0 +1,24 @@
+﻿  StudentWorld.cpp
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(58): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(82): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(128): warning C4018: '<=': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(142): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(156): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(170): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(184): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(190): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(199): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(203): warning C4018: '<=': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(267): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(290): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(307): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(320): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\nachenblaster\nachenblaster\studentworld.cpp(346): warning C4018: '<': signed/unsigned mismatch
+  NachenBlaster.vcxproj -> D:\projectsCS32\NachenBlaster\Debug\NachenBlaster.exe
+  NachenBlaster.vcxproj -> D:\projectsCS32\NachenBlaster\Debug\NachenBlaster.pdb (Partial PDB)
