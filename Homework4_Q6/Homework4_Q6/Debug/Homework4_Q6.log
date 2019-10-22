@@ -1,0 +1,5 @@
+﻿  sorts.cpp
+e:\lu zixuan\projects\homework4_q6\homework4_q6\sorts.cpp(129): warning C4018: '<=': signed/unsigned mismatch
+e:\lu zixuan\projects\homework4_q6\homework4_q6\sorts.cpp(254): warning C4018: '<': signed/unsigned mismatch
+e:\lu zixuan\projects\homework4_q6\homework4_q6\sorts.cpp(261): warning C4018: '<': signed/unsigned mismatch
+  Homework4_Q6.vcxproj -> E:\Lu Zixuan\projects\Homework4_Q6\Debug\Homework4_Q6.exe
