@@ -1,0 +1,7 @@
+﻿  Tokenizer.cpp
+d:\projectscs32\project5\project5\tokenizer.cpp(9): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\project5\project5\tokenizer.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\project5\project5\tokenizer.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\projectscs32\project5\project5\tokenizer.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Project5.vcxproj -> D:\projectsCS32\Project5\Debug\Project5.exe
+  Project5.vcxproj -> D:\projectsCS32\Project5\Debug\Project5.pdb (Partial PDB)
